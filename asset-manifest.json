@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/thirdhotel/static/css/main.ded39f99.css",
+    "main.js": "/thirdhotel/static/js/main.8f193490.js",
+    "static/media/tajimage.jpeg": "/thirdhotel/static/media/tajimage.aa96a8e0fe9aff05f91f.jpeg",
+    "static/media/tajlogo.png": "/thirdhotel/static/media/tajlogo.1e0c81c45ab0f9f37f6f.png",
+    "static/media/instagram.png": "/thirdhotel/static/media/instagram.86b4c9e5892f38b82d50.png",
+    "static/media/5.png": "/thirdhotel/static/media/5.aec403fe95243dc688ed.png",
+    "index.html": "/thirdhotel/index.html",
+    "main.ded39f99.css.map": "/thirdhotel/static/css/main.ded39f99.css.map",
+    "main.8f193490.js.map": "/thirdhotel/static/js/main.8f193490.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ded39f99.css",
+    "static/js/main.8f193490.js"
+  ]
+}
